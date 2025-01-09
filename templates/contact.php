@@ -21,11 +21,11 @@
             <label class="logo">DN</label>
                 <ul class="nav-links">
                     <img src="/docs/images/icons8-croix-64.png" class="image-croix-menu" alt="image fermer le menu">
-                    <li class="li-nav"><a href="index.html">Accueil</a></li>
-                    <li class="li-nav"><a href="apropos.html">A propos</a></li>
-                    <li class="li-nav"><a href="projet.html">Projets</a></li>
-                    <li class="li-nav"><a href="competences.html">Compétences</a></li>
-                    <li class="li-nav"><a href="#">Contact</a></li>
+                    <li class="li-nav"><a href="/">Accueil</a></li>
+                    <li class="li-nav"><a href="/apropos">A propos</a></li>
+                    <li class="li-nav"><a href="/projets">Projets</a></li>
+                    <li class="li-nav"><a href="/competences">Compétences</a></li>
+                    <li class="li-nav"><a href="">Contact</a></li>
                 </ul>
             <img src="docs/images/icons8-hamburger-50.png" class="image-menu-burger" alt="image de menu">
         </nav>

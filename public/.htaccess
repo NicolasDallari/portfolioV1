@@ -1,0 +1,7 @@
+# Activer le moteur de réécriture
+RewriteEngine On
+
+# Si la requête ne correspond pas à un fichier ou un dossier existant, rediriger vers index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]
