@@ -1,32 +1,9 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Jomolhari&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Jomolhari&family=Kaisei+Tokumin&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="css/style.css" >
-    <link rel="stylesheet" href="css/chargement.css" >
     <link rel="stylesheet" href="css/apropos.css" >
     <title>A propos</title>
 </head>
 <body>
-    <div class="chargement">
-        <span class="lettre">C</span>
-        <span class="lettre">H</span>
-        <span class="lettre">A</span>
-        <span class="lettre">R</span>
-        <span class="lettre">G</span>
-        <span class="lettre">E</span>
-        <span class="lettre">M</span>
-        <span class="lettre">E</span>
-        <span class="lettre">N</span>
-        <span class="lettre">T</span>
-    </div>
     <div class="container-propos">
         <nav>
             <label class="logo">DN</label>

@@ -2,7 +2,7 @@
 <?php 
 
 require '../vendor/autoload.php';
-
+require '../partials/header.php' ;
 $uri = $_SERVER['REQUEST_URI'];
 
 $router = new  AltoRouter();

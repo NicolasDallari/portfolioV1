@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Jomolhari&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Jomolhari&family=Kaisei+Tokumin&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="css/style.css" >
     <link rel="stylesheet" href="css/contact.css">
     <link rel="stylesheet" href="css/competences.css">
@@ -35,7 +25,7 @@
             </section>
             <section class="formulaire">
                     <h2 class="contactez-moi">N'hésitez pas à me contacter, je vous répondrai dans les plus brefs délais.</h2>
-                    <form action="/submit-form" method="POST" id="contact-form">
+                    <form action="" method="POST" id="contact-form">
                         <input type="text" id="name" name="name" placeholder="Votre nom" required>
                         <input type="email" id="email" name="email" placeholder="Votre email" required>
                         <textarea id="message" name="message" rows="12" placeholder="Votre message" required></textarea>
