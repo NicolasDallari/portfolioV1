@@ -15,10 +15,18 @@
     list-style: none;
     box-sizing: border-box;
 }
-
+body {
+    visibility: hidden; /* Cache tout le contenu au chargement */
+    overflow: hidden; /* Empêche le défilement */
+}
+body.anim-ready {
+    visibility: visible; /* Rend le contenu visible une fois l'animation prête */
+    overflow: auto; /* Réactive le défilement */
+}
 /* Couleur de fond en dégrader de la page */
 body {
-    /* margin-top: 80px; */
+    visibility: hidden; /* Cache tout le contenu au chargement */
+    overflow: hidden; /* Empêche le défilement */
     background-image: var(--primary-gradient);
     height: 100vh;
     display: flex;

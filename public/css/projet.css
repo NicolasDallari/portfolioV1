@@ -1,4 +1,11 @@
-
+body {
+    visibility: hidden; /* Cache tout le contenu au chargement */
+    overflow: hidden; /* Empêche le défilement */
+}
+body.anim-ready {
+    visibility: visible; /* Rend le contenu visible une fois l'animation prête */
+    overflow: auto; /* Réactive le défilement */
+}
 .container-projet {
     width: 100%;
     max-width: 2300px; 
