@@ -1,5 +1,7 @@
 // ANIMATION AFFICHAGE LIBRAIRIE PAGE ACCUEIL https://gsap.com///
-
+document.addEventListener("DOMContentLoaded", () => {
+    document.body.classList.add("anim-ready");
+});
 const logo = document.querySelector('.logo');
 const accueil = document.querySelector('.page-en-cour');
 const quiH2 = document.querySelector('.qui-h2');
