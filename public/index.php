@@ -19,7 +19,7 @@ $router->map('GET','/projets', function () {
 $router->map('GET','/competences', function () {
     require '../templates/competences.php' ;
 });
-$router->map('GET','/contact', function () {
+$router->map('GET,POST','/contact', function () {
     require '../templates/contact.php' ;
 });
 

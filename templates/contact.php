@@ -1,3 +1,6 @@
+<?php
+require '../public/mail/mail.php';
+?>
 
     <link rel="stylesheet" href="css/style.css" >
     <link rel="stylesheet" href="css/contact.css">
@@ -29,7 +32,7 @@
                         <input type="text" id="name" name="name" placeholder="Votre nom" required>
                         <input type="email" id="email" name="email" placeholder="Votre email" required>
                         <textarea id="message" name="message" rows="12" placeholder="Votre message" required></textarea>
-                        <button type="submit">Envoyer le message</button>
+                        <button type="submit" name="envoyer" >Envoyer le message</button>
                     </form>
             </section>
             <section class="lien-contact">
