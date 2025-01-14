@@ -1,5 +1,7 @@
                   //   CODE POUR LA NAVIGATION EN MODE TELEPHONE  //
-
+                  document.addEventListener("DOMContentLoaded", () => {
+                    document.body.classList.add("anim-ready");
+                });
 // Sélectionne les éléments de la navigation pour le menu mobile
 const menuHamburger = document.querySelector(".image-menu-burger");
 const croixFermeture = document.querySelector(".image-croix-menu");
