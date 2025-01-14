@@ -53,14 +53,14 @@ a.visualiser-cv {
 h2 {
     font-size: 2rem;
     color: white;
-    text-shadow:  3px 3px black;
+    text-shadow:  1px 1px black;
     padding-top: 3em;
     font-family:"Jomolhari";
     font-weight: lighter;
     
 }
 h3 {
-    text-shadow:  2px 2px black;
+    text-shadow:  1px 1px black;
     font-size: 2.5rem;
     color: var(--text-chargement);
     font-family:"Jomolhari";

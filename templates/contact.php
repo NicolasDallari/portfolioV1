@@ -1,5 +1,5 @@
 <?php
-require '../public/mail/mail.php';
+// require '../public/mail/mail.php';
 ?>
 
     <link rel="stylesheet" href="css/style.css" >
