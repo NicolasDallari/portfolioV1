@@ -60,7 +60,7 @@ h2 {
     
 }
 h3 {
-    text-shadow:  1px 1px black;
+    text-shadow:  2px 2px black;
     font-size: 2.5rem;
     color: var(--text-chargement);
     font-family:"Jomolhari";
@@ -165,7 +165,7 @@ img.git, img.figma, img.agile, img.linux, img.github {
         padding-top: 4em;
     }
     h2 {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
         padding-left: 1.5em;
         padding-right: 1.5em;
     }
@@ -288,20 +288,14 @@ img.git, img.figma, img.agile, img.linux, img.github {
         top: 50%;
     }
 }
-/* @media (min-width: 600px) and (max-width: 1024px) {
-    .js{
-        border-radius: 50%;
+/* @media screen and (max-width: 600px) {
+    .container-front {
+        min-width: 400px;
     }
-    .css {
-        left: 42%;
-        top: 100%;
+    .container-back {
+        min-width: 400px;
     }
-    .html {
-        left: 15%;
-        top: 40%
+    .container-outils {
+        min-width: 400px;
     }
-    .js {
-        left: 70%;
-        top: 50%;
-    }
-}
+} */
