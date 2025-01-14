@@ -27,11 +27,29 @@
                 <div class="container-projets">
                     <div class="carte">
                         <div class="image">
-                            <img class="image-site" src="docs/images/téléchargement (1).jpeg" alt="image du site">
+                            <img class="image-site" src="docs/images/accueilPortfolio.webp" alt="image du site">
                         </div>
                         <div class="texte">
-                            <h3>Ubuntu</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae atque repellat mollitia harum quos dolores et pariatur placeat perspiciatis commodi Beatae atque repellat mollitia harum quos dolores et pariatur placeat perspiciatis commodi.
+                            <h3>Portfolio</h3>
+                            <p>Voici mon portfolio. J'ai commencé par réaliser la maquette sur Figma pour obtenir un rendu visuel, puis j'ai tout développé en HTML, CSS, JavaScript et PHP. 
+                            </p>
+                            <div class="liens">
+                                <a href="https://github.com/NicolasDallari/portfolioV1">
+                                    <img class="imageLienGithub" src="docs/images/github fond noir.png" alt="image lien du site github">
+                                </a>
+                                <a href="https://www.portfolio.dallarinicolas.fr/">
+                                    <img class="imageliensite" src="docs/images/imageliensite.png" alt="image lien du site">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carte">
+                        <div class="image">
+                            <img class="image-site" src="docs/images/projetencour.jpeg" alt="image du site">
+                        </div>
+                        <div class="texte">
+                            <h3>Convertisseur</h3>
+                            <p>Voici un projet en cours qui permettra de convertir la monnaie, réalisé en HTML, CSS et PHP.
                             </p>
                             <div class="liens">
                                 <a href="">
@@ -48,27 +66,8 @@
                             <img class="image-site" src="docs/images/projetencour.jpeg" alt="image du site">
                         </div>
                         <div class="texte">
-                            <h3>Projet </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae atque repellat mollitia harum quos dolores et pariatur placeat perspiciatis 
-                                commodi Beatae atque repellat mollitia harum quos dolores et pariatur placeat perspiciatis commodi.Beatae atque repellat mollitia harum quos dolores et pariatur placeat perspiciatis commodi
-                            </p>
-                            <div class="liens">
-                                <a href="">
-                                    <img class="imageLienGithub" src="docs/images/github fond noir.png" alt="image lien du site github">
-                                </a>
-                                <a href="">
-                                    <img class="imageliensite" src="docs/images/imageliensite.png" alt="image lien du site">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carte">
-                        <div class="image">
-                            <img class="image-site" src="docs/images/téléchargement.jpeg" alt="image du site">
-                        </div>
-                        <div class="texte">
-                            <h3>Logo</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae atque repellat mollitia harum quos dolores et pariatur placeat perspiciatis .
+                            <h3>Age animaux</h3>
+                            <p>Voici un projet en cours qui vous permettra de connaître l'âge de votre animal en années humaines.
                             </p>
                             <div class="liens">
                                 <a href="">

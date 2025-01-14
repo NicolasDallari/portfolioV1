@@ -147,7 +147,7 @@ h1 {
 .NomPrénom { font-size: 5.5vw; margin-bottom: 2%; }
 
 .Métier {
-    text-shadow:  3px 3px black;
+    text-shadow:  1.5px 1.5px black;
     color: rgb(193, 33, 33);
 }
 
@@ -240,7 +240,7 @@ section.image-fond { width: 40%; }
     h2.NomPrénom { font-size: 10vw; }
     
     h3.Métier {
-        font-size: 1.4em;
+        font-size: 4vw;
     }
 
     section.image-fond,

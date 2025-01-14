@@ -45,7 +45,7 @@ a.visualiser-cv {
 h2 {
     font-size: 2rem;
     color: white;
-    text-shadow:  3px 3px black;
+    text-shadow:  1.5px 1.5px black;
     padding-top: 3em;
     font-family:"Jomolhari";
     font-weight: lighter;
@@ -165,7 +165,7 @@ img.git, img.figma, img.agile, img.linux, img.github {
         font-size: 2rem;
     }
     .listes-front li, .listes-back li, .listes-outils li {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         color: white;
         padding-top: 1em;
     }
@@ -177,11 +177,11 @@ img.git, img.figma, img.agile, img.linux, img.github {
     }
     /* POUR LA CLASSE FRONT */
    
-    .container-front {
+    /* .container-front {
         min-width: 600px;
         max-width: 600px;
         margin:  auto;
-    }
+    } */
     .js{
         border-radius: 50%;
     }
@@ -199,11 +199,11 @@ img.git, img.figma, img.agile, img.linux, img.github {
     }
    
     /* POUR LA CLASSE BACK */
-    .container-back {
+    /* .container-back {
         min-width: 600px;
         max-width: 600px;
         margin:  auto;
-    }
+    } */
     .laravel {
         left: 45%;
         top: 100%
@@ -225,11 +225,11 @@ img.git, img.figma, img.agile, img.linux, img.github {
         top: 70%
     }
     /* POUR LA CLASSE OUTILS */
-    .container-outils {
+    /* .container-outils {
         min-width: 600px;
         max-width: 600px;
         margin:  auto;
-    }
+    } */
     .git {
         left: 10%;
         top: 60%
@@ -262,7 +262,25 @@ img.git, img.figma, img.agile, img.linux, img.github {
         
     }
 }
-@media screen and (max-width: 600px) {
+@media (min-width: 600px) and (max-width: 1024px) {
+   
+    .js{
+        border-radius: 50%;
+    }
+    .css {
+        left: 42%;
+        top: 100%;
+    }
+    .html {
+        left: 15%;
+        top: 40%
+    }
+    .js {
+        left: 70%;
+        top: 50%;
+    }
+}
+/* @media screen and (max-width: 600px) {
     .container-front {
         min-width: 400px;
     }
@@ -272,4 +290,4 @@ img.git, img.figma, img.agile, img.linux, img.github {
     .container-outils {
         min-width: 400px;
     }
-}
+} */

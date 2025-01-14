@@ -20,11 +20,11 @@ function handleScreenChange(e) {
     if (e.matches) {
         TL1
         .from(accueil, 3, {y: -30, opacity: 0}, )
-        .from(hello, 2.5, {x: -70,y: -70, opacity: 0},'-=2.5')
-        .from(bienvenue, 2.4, {y: 70,x: 70, opacity: 0},'-=2.4')
-        .from(nomPrénom, 2.3, {x: 70,y: -70, opacity: 0},'-=2.3')
-        .from(métier, 2.2, {y: 70,x: -70, opacity: 0},'-=2.2')
-        .from(imageFond, 2.1, {y: 50, opacity: 0},'-=2.1')
+        .from(hello, 2, {y:100, opacity: 0},'-=2.5')
+        .from(bienvenue, 2, {y:100, opacity: 0},'-=2')
+        .from(nomPrénom, 2, {y:100, opacity: 0},'-=1.7')
+        .from(métier, 2, {y:100, opacity: 0},'-=1.5')
+        .from(imageFond, 2, {y:100, opacity: 0},'-=1.3')
         TL1.play();
        
     } else {
