@@ -1,5 +1,7 @@
                     // ANIMATION AFFICHAGE LIBRAIRIE PAGE ACCUEIL https://gsap.com///
-
+document.addEventListener("DOMContentLoaded", () => {
+    document.body.classList.add("anim-ready");
+});
 const logo = document.querySelector('.logo');
 const accueil = document.querySelector('.page-en-cour');
 const hello = document.querySelector('.Hello');
@@ -20,11 +22,19 @@ function handleScreenChange(e) {
     if (e.matches) {
         TL1
         .from(accueil, 3, {y: -30, opacity: 0}, )
+<<<<<<< HEAD
         .from(hello, 2, {y:100, opacity: 0},'-=2.5')
         .from(bienvenue, 2, {y:100, opacity: 0},'-=2')
         .from(nomPrénom, 2, {y:100, opacity: 0},'-=1.7')
         .from(métier, 2, {y:100, opacity: 0},'-=1.5')
         .from(imageFond, 2, {y:100, opacity: 0},'-=1.3')
+=======
+        .from(hello, 2, {y: 100, opacity: 0},'-=2.5')
+        .from(bienvenue, 2, {y: 100, opacity: 0},'-=2')
+        .from(nomPrénom, 2, {y: 100, opacity: 0},'-=1.7')
+        .from(métier, 2, {y: 100, opacity: 0},'-=1.5')
+        .from(imageFond, 2, {y: 100, opacity: 0},'-=1.3')
+>>>>>>> 906a1840c880dd33faa0fbd4874dcf4a19aafe69
         TL1.play();
        
     } else {

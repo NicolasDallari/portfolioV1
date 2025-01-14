@@ -1,3 +1,5 @@
+                  //   CODE POUR LA NAVIGATION EN MODE TELEPHONE  //
+
 // Sélectionne les éléments de la navigation pour le menu mobile
 const menuHamburger = document.querySelector(".image-menu-burger");
 const croixFermeture = document.querySelector(".image-croix-menu");
@@ -20,8 +22,7 @@ croixFermeture.addEventListener("click", () => {
 });
 
 
-
-
+                  //CODE POUR LE CHARGEMENT DU DEBUT DE LA PAGE D'ACCUEIL , MIS EN PAUSE POUR L'INSTANT //
 
 // Sélection de l'élément de chargement
 const chargement = document.querySelector('.chargement');

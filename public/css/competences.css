@@ -1,3 +1,11 @@
+body {
+    visibility: hidden; /* Cache tout le contenu au chargement */
+    overflow: hidden; /* Empêche le défilement */
+}
+body.anim-ready {
+    visibility: visible; /* Rend le contenu visible une fois l'animation prête */
+    overflow: auto; /* Réactive le défilement */
+}
 .container-competence {
     width: 100%;
     max-width: 2300px; 
@@ -52,7 +60,7 @@ h2 {
     
 }
 h3 {
-    text-shadow:  2px 2px black;
+    text-shadow:  1px 1px black;
     font-size: 2.5rem;
     color: var(--text-chargement);
     font-family:"Jomolhari";
@@ -157,7 +165,7 @@ img.git, img.figma, img.agile, img.linux, img.github {
         padding-top: 4em;
     }
     h2 {
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         padding-left: 1.5em;
         padding-right: 1.5em;
     }
@@ -280,14 +288,20 @@ img.git, img.figma, img.agile, img.linux, img.github {
         top: 50%;
     }
 }
-/* @media screen and (max-width: 600px) {
-    .container-front {
-        min-width: 400px;
+/* @media (min-width: 600px) and (max-width: 1024px) {
+    .js{
+        border-radius: 50%;
     }
-    .container-back {
-        min-width: 400px;
+    .css {
+        left: 42%;
+        top: 100%;
     }
-    .container-outils {
-        min-width: 400px;
+    .html {
+        left: 15%;
+        top: 40%
     }
-} */
+    .js {
+        left: 70%;
+        top: 50%;
+    }
+}
