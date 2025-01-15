@@ -1,4 +1,14 @@
-
+    <meta name="description" content="Bienvenue sur le portfolio de Dallari Nicolas, développeur web et mobile passionné. Découvrez mes projets, compétences et contactez-moi pour vos idées innovantes.">
+    <meta name="keywords" content="Dallari Nicolas, développeur web, développeur mobile, portfolio, projets web, compétences développeur, contact développeur">
+    <meta name="author" content="Dallari Nicolas">
+    <meta property="og:title" content="Portfolio de Dallari Nicolas - Développeur Web et Mobile">
+    <meta property="og:description" content="Découvrez le portfolio de Dallari Nicolas, développeur web et mobile. Explorez ses projets, compétences et contactez-le pour vos besoins numériques.">
+    <meta property="og:image" content="docs/images/pixelcut-export.webp">
+    <meta property="og:url" content="https://votre-site.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Portfolio de Dallari Nicolas - Développeur Web et Mobile">
+    <meta name="twitter:description" content="Découvrez le portfolio de Dallari Nicolas, ses projets, ses compétences, et contactez-le pour discuter de vos idées.">
+    <meta name="twitter:image" content="docs/images/pixelcut-export.webp">
     <link rel="stylesheet" href="css/style.css" >
     <title>Accueil</title>
 </head>

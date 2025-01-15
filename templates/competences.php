@@ -1,4 +1,14 @@
-
+    <meta name="description" content="Découvrez les compétences de Dallari Nicolas, développeur web et mobile. Front-end, back-end et outils essentiels pour vos projets numériques.">
+    <meta name="keywords" content="Dallari Nicolas, compétences développeur, front-end, back-end, outils développeur, HTML, CSS, JavaScript, PHP, Laravel, Symfony, Git, Figma, Méthode Agile">
+    <meta name="author" content="Dallari Nicolas">
+    <meta property="og:title" content="Compétences de Dallari Nicolas - Développeur Web et Mobile">
+    <meta property="og:description" content="Explorez les compétences de Dallari Nicolas : front-end, back-end, et outils essentiels pour créer des projets numériques innovants.">
+    <meta property="og:image" content="docs/images/front/js.webp">
+    <meta property="og:url" content="https://votre-site.com/competences">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Compétences de Dallari Nicolas - Développeur Web et Mobile">
+    <meta name="twitter:description" content="Dallari Nicolas maîtrise le développement front-end, back-end, et des outils comme Git, Figma, et Linux. Découvrez ses compétences !">
+    <meta name="twitter:image" content="docs/images/front/js.webp">
     <link rel="stylesheet" href="css/style.css" >
     <link rel="stylesheet" href="css/competences.css">
     <title>Compétences</title>
