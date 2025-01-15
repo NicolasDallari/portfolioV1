@@ -23,7 +23,7 @@
                 <h1 class="projets-h1">Projets</h1>
             </section>
             <section class="exemple-projets">
-                <h2>Exemples de projets </h2>
+                <h2>Mes réalisations </h2>
                 <div class="container-projets">
                     <div class="carte">
                         <div class="image">
