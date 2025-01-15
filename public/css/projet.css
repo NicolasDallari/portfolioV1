@@ -70,6 +70,9 @@ body.anim-ready {
     flex-direction: column;
     justify-content: space-between;
     flex: 1;
+    overflow: hidden;
+    text-align: left;
+
 }
 .texte p {
     font-family:"Kaisei Tokumin", serif;
@@ -87,9 +90,10 @@ body.anim-ready {
 h3 { 
     text-shadow:  1px 1px black;
     text-align: center;
-    font-size: 200%;
+    font-size: 1.5rem;
     padding: 0.5em;
-    color: rgb(223, 150, 76);   
+    color: rgb(223, 150, 76);
+    word-wrap: break-word;   
 }
 
 .imageLienGithub, .imageliensite {

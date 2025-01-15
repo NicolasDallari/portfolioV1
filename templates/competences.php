@@ -61,8 +61,8 @@
                             <h3>Outils:</h3>
                             <img src="docs/images/outils/git.png_preview_rev_1.webp" alt="image logo git" class="git">
                             <img src="docs/images/outils/figma_preview_rev_1.webp" alt="image logo figma" class="figma">
-                            <img src="docs/images/outils/agile_preview_rev_1.webp" alt="image logo agile" class="agile">
-                            <img src="docs/images/outils/linux.webp" alt="image logo linux" class="linux">
+                            <img src="docs/images/outils/agile6.png" alt="image logo agile" class="agile">
+                            <img src="docs/images/outils/imageLinux1.png" alt="image logo linux" class="linux">
                             <img src="docs/images/outils/github.webp" alt="image logo github" class="github">
                             <ul class="listes-outils">
                                 <li>Linux</li>
