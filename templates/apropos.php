@@ -23,7 +23,7 @@
             </section>
             <section class="texte-parcour">
                 <h2 class="qui-h2"> Qui suis-je ?</h2>
-                <p class="qui-p">Bonjour moi, c'est Nicolas. J'ai 37 ans, je vis actuellement dans un petit village d'Auvergne et je suis le père d'une petite famille de 3 enfants.
+                <p class="qui-p">Bonjour moi, c'est Nicolas. J'ai 37 ans, je vis actuellement dans un petit village d'Auvergne et je suis le papa d'une petite famille de 3 enfants.
                 </p>
                 <h2 class="pourquoi-h2"> Pourquoi ce métier ?</h2>
                 <p class="pourquoi-p">Je me suis longtemps cherché en essayant divers métiers, tous aussi différents les uns que les autres. Je me suis 
