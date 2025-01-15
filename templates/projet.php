@@ -1,4 +1,14 @@
-
+    <meta name="description" content="Découvrez les projets de Dallari Nicolas, développeur web et mobile. Explorez ses réalisations, du portfolio aux outils pratiques comme un convertisseur et d'autres idées innovantes.">
+    <meta name="keywords" content="Dallari Nicolas, projets développeur, portfolio, convertisseur, outils web, développement web, développement mobile">
+    <meta name="author" content="Dallari Nicolas">
+    <meta property="og:title" content="Projets de Dallari Nicolas - Développeur Web et Mobile">
+    <meta property="og:description" content="Explorez les projets de Dallari Nicolas : un portfolio, un convertisseur de monnaie et d'autres outils innovants développés en HTML, CSS, JavaScript et PHP.">
+    <meta property="og:image" content="docs/images/accueilPortfolio.webp">
+    <meta property="og:url" content="https://votre-site.com/projets">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Projets de Dallari Nicolas - Développeur Web et Mobile">
+    <meta name="twitter:description" content="Découvrez les réalisations de Dallari Nicolas, développeur passionné, et ses projets créatifs et pratiques.">
+    <meta name="twitter:image" content="docs/images/accueilPortfolio.webp">
     <link rel="stylesheet" href="css/style.css" >
     <link rel="stylesheet" href="css/projet.css">
     

@@ -1,4 +1,14 @@
-
+    <meta name="description" content="Découvrez le parcours de Dallari Nicolas, développeur web et mobile passionné. Apprenez-en plus sur son histoire, ses motivations et son chemin vers le développement.">
+    <meta name="keywords" content="Dallari Nicolas, développeur web, développeur mobile, parcours développeur, reconversion développeur, histoire développeur">
+    <meta name="author" content="Dallari Nicolas">
+    <meta property="og:title" content="À propos de Dallari Nicolas - Développeur Web et Mobile">
+    <meta property="og:description" content="Explorez l'histoire de Dallari Nicolas, son parcours, ses motivations et ses ambitions en tant que développeur web et mobile.">
+    <meta property="og:image" content="docs/images/image-moi.webp">
+    <meta property="og:url" content="https://votre-site.com/apropos">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="À propos de Dallari Nicolas - Développeur Web et Mobile">
+    <meta name="twitter:description" content="Découvrez le parcours et les motivations de Dallari Nicolas, développeur web et mobile passionné.">
+    <meta name="twitter:image" content="docs/images/image-moi.webp">
     <link rel="stylesheet" href="css/style.css" >
     <link rel="stylesheet" href="css/apropos.css" >
     <title>A propos</title>

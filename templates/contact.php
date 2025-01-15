@@ -1,7 +1,17 @@
 <?php
  require '../public/mail/mail.php';
 ?>
-
+    <meta name="description" content="Contactez Dallari Nicolas, développeur web et mobile, pour discuter de vos projets numériques ou toute autre demande.">
+    <meta name="keywords" content="Dallari Nicolas, contact développeur, email développeur, LinkedIn développeur, projets numériques, contact professionnel">
+    <meta name="author" content="Dallari Nicolas">
+    <meta property="og:title" content="Contactez Dallari Nicolas - Développeur Web et Mobile">
+    <meta property="og:description" content="Besoin d'un développeur pour vos projets web ou mobiles ? Contactez Dallari Nicolas dès aujourd'hui.">
+    <meta property="og:image" content="docs/images/lettrerectifier.png">
+    <meta property="og:url" content="https://votre-site.com/contact">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contactez Dallari Nicolas - Développeur Web et Mobile">
+    <meta name="twitter:description" content="N'hésitez pas à me contacter pour discuter de vos idées, projets ou besoins numériques.">
+    <meta name="twitter:image" content="docs/images/lettrerectifier.png">
     <link rel="stylesheet" href="css/style.css" >
     <link rel="stylesheet" href="css/contact.css">
     <link rel="stylesheet" href="css/competences.css">
