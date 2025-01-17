@@ -1,2 +1,4 @@
 # Composer dependencies
 /vendor
+#variable mailer connection 
+/app/config.ini

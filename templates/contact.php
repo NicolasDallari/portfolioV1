@@ -1,5 +1,5 @@
 <?php
- require '../public/mail/mail.php';
+ require '../app/mail/mail.php';
 ?>
     <meta name="description" content="Contactez Dallari Nicolas, développeur web et mobile, pour discuter de vos projets numériques ou toute autre demande.">
     <meta name="keywords" content="Dallari Nicolas, contact développeur, email développeur, LinkedIn développeur, projets numériques, contact professionnel">
