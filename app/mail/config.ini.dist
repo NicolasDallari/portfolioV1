@@ -1,0 +1,4 @@
+ 
+ ; variable mailer conncetion 
+ username = 'SMTP username'                    
+ password = 'SMTP password'  
