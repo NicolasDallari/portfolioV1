@@ -37,7 +37,7 @@
                 <div class="container-projets">
                     <div class="carte">
                         <div class="image">
-                            <img class="image-site" src="docs/images/accueilPortfolio.webp" alt="image du site">
+                            <img class="image-site" src="docs/images/accueilPortfolio1.webp" alt="image du site">
                         </div>
                         <div class="texte">
                             <h3>Portfolio</h3>

@@ -47,22 +47,22 @@
             </section>
             <section class="lien-contact">
                 <div class="contact-item">
-                    <img src="docs/images/github-colore-copie.png" class="imggithub" alt="image logo github">
+                    <img src="docs/images/github-colore.webp" class="imggithub" alt="image logo github">
                     <h3 class="github"><a href="https://github.com/NicolasDallari" class="agithub" target="_blank">https://github.com/NicolasDallari</a></h3>
                 </div>
                 <div class="contact-item">
-                    <img src="docs/images/imagelinkedin.png" class="imglinkedin" alt="image logo linkedin">
+                    <img src="docs/images/imagelinkedin1.webp" class="imglinkedin" alt="image logo linkedin">
                     <h3 class="linkedin"><a href="https://www.linkedin.com/in/dallari-nicolas-6556382a9/" class="alinkedin" target="_blank">https://www.linkedin.com/feed/</a></h3>
                 </div>
                 <div class="contact-item">
-                    <img src="docs/images/image-maps-maison.png" class="imgmaps" alt="image position maps">
+                    <img src="docs/images/positionmaps.webp" class="imgmaps" alt="image position maps">
                     <h3 class="region">Puy-de-Dôme / Moureuille</h3>
                 </div>
                 <div class="contact-item">
-                    <img src="docs/images/telephone.png" class="imgtelephone" alt="image telephone">
+                    <img src="docs/images/téléphone1.webp" class="imgtelephone" alt="image telephone">
                     <h3 class="numero">06.01.34.17.82</h3>
                 </div>
-                <img src="docs/images/lettrerectifier.png" width="" height="" class="image-de-lettre" alt="image de lettre">
+                <img src="docs/images/lettrerectifier1.png" width="" height="" class="image-de-lettre" alt="image de lettre">
             </section>
         </main>
     </div>

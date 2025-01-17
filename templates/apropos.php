@@ -47,7 +47,7 @@
                 </p>
             </section>
             <section class="image-portrait">
-                <img src="docs/images/image-moi.webp" width="100%" height="100%" class="image-photo-moi" alt="image de portrait">
+                <img src="docs/images/image-moi1.webp" width="100%" height="100%" class="image-photo-moi" alt="image de portrait">
             </section>
         </main>
     </div>
