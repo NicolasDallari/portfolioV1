@@ -85,7 +85,7 @@
                     </div> 
                 </div>
                 <div class="cv"> 
-                    <a href="cv/cv.pdf" target="_blank" class="visualiser-cv">Visualiser cv</a>
+                    <a href="cv/cv.back.pdf" target="_blank" class="visualiser-cv">Visualiser cv</a>
                 </div>
             </section>
         </main>
