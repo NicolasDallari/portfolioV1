@@ -39,7 +39,7 @@
                 <h3 class="Métier">Développeur Web et Mobile</h3>
             </section>
             <section class="image-fond">
-                <img src="docs/images/pixelcut-export.webp" width="100%" height="100%" class="image-logo-fond" alt="image de fond ">
+                <img src="docs/images/pixelcut-export-min.webp" width="100%" height="100%" class="image-logo-fond" alt="image de fond ">
             </section>
         </main>
     </div>
