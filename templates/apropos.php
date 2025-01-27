@@ -33,7 +33,7 @@
             </section>
             <section class="texte-parcour">
                 <h2 class="qui-h2"> Qui suis-je ?</h2>
-                <p class="qui-p">Bonjour moi, c'est Nicolas. J'ai 37 ans, je vis actuellement dans un petit village d'Auvergne et je suis le papa d'une petite famille de 3 enfants.
+                <p class="qui-p">Bonjour, moi c'est Nicolas. J'ai 37 ans, je vis actuellement dans un petit village d'Auvergne et je suis le papa d'une petite famille de 3 enfants.
                 </p>
                 <h2 class="pourquoi-h2"> Pourquoi ce métier ?</h2>
                 <p class="pourquoi-p">Je me suis longtemps cherché en essayant divers métiers, tous aussi différents les uns que les autres. Je me suis 
@@ -41,7 +41,7 @@
                     Ayant toujours été attiré par ce monde passionnant de l'informatique, j'ai donc décidé de sauter le pas et de faire une reconversion 
                     professionnelle dans le développement web, un métier en constante évolution où l'on apprend continuellement et où le mot "ennui" ne fait pas partie du vocabulaire du développeur.  
                 </p>
-                <h2 class="parcour-h2"> Mon parcour</h2>
+                <h2 class="parcour-h2"> Mon parcours</h2>
                 <p class="parcour-p">
                 Pour concrétiser ce projet, j'ai suivi une formation intensive de 6 mois en développement web fullstack avec l'école O'clock. Cette expérience m'a permis d'acquérir les fondamentaux de ce métier passionnant : HTML, CSS, JavaScript, PHP, Laravel et Symfony. Depuis, je code chaque jour pour approfondir ces compétences et continuer à progresser, avec l'ambition d'intégrer une entreprise qui me donnera ma chance. 
                 </p>
