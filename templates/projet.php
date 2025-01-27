@@ -44,7 +44,7 @@
                             <p>Voici mon portfolio. J'ai commencé par réaliser la maquette sur Figma pour obtenir un rendu visuel, puis j'ai tout développé en HTML, CSS, JavaScript et PHP. 
                             </p>
                             <div class="liens">
-                                <a href="https://github.com/NicolasDallari/portfolioV1">
+                                <a href="https://github.com/NicolasDallari/portfolioV1" target="_blank">
                                     <img class="imageLienGithub" src="docs/images/github fond noir.png" alt="image lien du site github">
                                 </a>
                                 <a href="https://www.portfolio.dallarinicolas.fr/">
@@ -55,17 +55,17 @@
                     </div>
                     <div class="carte">
                         <div class="image">
-                            <img class="image-site" src="docs/images/projetencour.jpeg" alt="image du site">
+                            <img class="image-site" src="docs/images/imageConvertisseur2.webp" alt="image du site">
                         </div>
                         <div class="texte">
-                            <h3>Convertisseur</h3>
-                            <p>Voici un projet en cours qui permettra de convertir la monnaie, réalisé en HTML, CSS et PHP.
+                            <h3>Convertisseur de devise</h3>
+                            <p>Voici un convertisseur de devise simple et intuitif conçu pour permettre aux utilisateurs de convertir facilement des montants entre différentes devises  . Réalisé en HTML, CSS et PHP.
                             </p>
                             <div class="liens">
-                                <a href="">
+                                <a href="https://github.com/NicolasDallari/Convertisseur?tab=readme-ov-file" target="_blank">
                                     <img class="imageLienGithub" src="docs/images/github fond noir.png" alt="image lien du site github">
                                 </a>
-                                <a href="">
+                                <a href="https://www.convertisseur.dallarinicolas.fr/" target="_blank">
                                     <img class="imageliensite" src="docs/images/imageliensite.png" alt="image lien du site">
                                 </a>
                             </div>

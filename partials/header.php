@@ -9,3 +9,4 @@
     <link href="https://fonts.googleapis.com/css2?family=Jomolhari&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jomolhari&family=Kaisei+Tokumin&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap" rel="stylesheet">
+    <link rel="icon" href="docs/images/favicon-32x32.png" type="image/x-icon">

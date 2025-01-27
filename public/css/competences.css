@@ -288,7 +288,7 @@ img.git, img.figma, img.agile, img.linux, img.github {
         top: 50%;
     }
 }
- @media (min-width: 1024px) and (max-width: 1800px) {
+ @media (min-width: 1025px) and (max-width: 1800px) {
 
     .css {
         right: 12%;
