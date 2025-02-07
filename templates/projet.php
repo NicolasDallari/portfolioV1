@@ -73,17 +73,17 @@
                     </div>
                     <div class="carte">
                         <div class="image">
-                            <img class="image-site" src="docs/images/projetencour.jpeg" alt="image du site">
+                            <img class="image-site" src="docs/images/age-animaux.webp" alt="image du site">
                         </div>
                         <div class="texte">
                             <h3>Age animaux</h3>
-                            <p>Voici un projet en cours qui vous permettra de connaître l'âge de votre animal en années humaines.
+                            <p>Voici un site qui te permet de connaître l'âge humain de ton animal de compagnie.Réalisé en HTML, CSS, PHP et JS.
                             </p>
                             <div class="liens">
-                                <a href="">
+                            <a href="https://github.com/NicolasDallari/age-animaux" target="_blank">
                                     <img class="imageLienGithub" src="docs/images/github fond noir.png" alt="image lien du site github">
                                 </a>
-                                <a href="">
+                                <a href="https://www.age-animaux.dallarinicolas.fr/" target="_blank">
                                     <img class="imageliensite" src="docs/images/imageliensite.png" alt="image lien du site">
                                 </a>
                             </div>
